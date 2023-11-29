@@ -1,0 +1,2 @@
+[1mnofile:0:0: [31minformation:[39m Cppcheck cannot find all the include files (use --check-config for details) [missingInclude][0m
+
